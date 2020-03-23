@@ -8,3 +8,5 @@ provides us with an estimate of the contagiousness of the virus, which is higher
 
 This data was available early on in the epidemic and this extrapolation could have easily been carried out by 
 government agencies throughout, so that countries could have been better prepared for what they're going through now.
+
+I would like to thank my TA, Feng Huang, for pointing me to the Chinese data and for the idea of the notebook as homework.
