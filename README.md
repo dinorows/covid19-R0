@@ -1,5 +1,7 @@
 # covid19-R0
-In this notebook we extrapolate data from Wuhan, China, in order to compute the  𝑅0  of Covid19. 
+In this notebook we extrapolate data from Wuhan, China, in order to compute the  𝑅0  of Covid19 with Bayesian estimation, 
+using the PyMC3 library.
+
 Since  𝑅0  depends on social concentrations of the population that an epidemic targets, it is challenging 
 to apply it to different populations. Nevertheless, an upper and lower bound on the epicenter of the epidemic 
 provides us with an estimate of the contagiousness of the virus, which is higher than the flu or SARS. 
